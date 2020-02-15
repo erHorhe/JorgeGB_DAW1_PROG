@@ -1,0 +1,10 @@
+Nombre: Er Horhe
+Edad: 19
+Nombre: Joan Carls Sabina
+Edad: 60
+Nombre: Er Puyanah
+Edad: 34
+Nombre: asasas
+Edad: 45
+Nombre: Cherminator
+Edad: 1000
